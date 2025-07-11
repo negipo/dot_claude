@@ -18,6 +18,7 @@
       "Bash(jq:*)",
       "Bash(curl:*)",
       "Bash(echo:*)",
+      "Bash(bundle:*)",
       "Bash(notify:*)",
       "Bash(vercel:*)",
       "WebFetch(domain:github.com)",
